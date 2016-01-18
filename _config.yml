@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: FH-KARATE.DE
+email: jens_koehler@gmx.de
+description: Dirk Klasen, Klasen, Karate, Frankfurt, Frankfurt Karate, fh-frankfurt, fh-karate, shotokan, Karatetraining, Karate Training, Karate in Frankfurt, Sarah Holze, Ralph Nuss, Karate Verein Frankfurt, Verein Frankfurt, Klasen Karate, shotokan karate, selbstverteidigung frankfurt
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fh-karate.de" # the base hostname & protocol for your site
+twitter_username: halo2404
+github_username: halo2404
+
+# Build settings
+markdown: kramdown
