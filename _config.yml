@@ -7,12 +7,19 @@
 
 # Site settings
 title: FH-KARATE.DE
-email: jens_koehler@gmx.de
+site_author: Jens Koehler
+author_email: jens_koehler@gmx.de
+author: Dirk Klasen
+email: dirk.klasen@fh-karate.de
 description: Dirk Klasen, Klasen, Karate, Frankfurt, Frankfurt Karate, fh-frankfurt, fh-karate, shotokan, Karatetraining, Karate Training, Karate in Frankfurt, Sarah Holze, Ralph Nuss, Karate Verein Frankfurt, Verein Frankfurt, Klasen Karate, shotokan karate, selbstverteidigung frankfurt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fh-karate.de" # the base hostname & protocol for your site
-twitter_username: halo2404
-github_username: halo2404
+url_short: fh-karate.de
+site_twitter_username: halo2404
+site_github_username: halo2404
+twitter_username: 
+github_username: 
+facebook_username: fhkarate
 
 # Build settings
 markdown: kramdown
